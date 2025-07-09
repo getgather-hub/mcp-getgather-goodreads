@@ -1,0 +1,2 @@
+# goodreads-mcp
+
